@@ -1,5 +1,8 @@
 # suma2-dep-prototype
-Repository to prototype the deployment of SUSE Manager 5.x
+Repository to prototype the deployment of SUSE Manager 5.x HUB
+
+- With a HUB
+- And 4 SUMA Peripheral Servers
 
 ToDo:
 - Create some shell scripts to get the deployment done
