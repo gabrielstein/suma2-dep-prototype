@@ -1,4 +1,4 @@
-# suma2-dep-prototype
+# suma5-dep-prototype
 Repository to prototype the deployment of SUSE Manager 5.x HUB
 
 - With a HUB
